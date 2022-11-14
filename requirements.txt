@@ -1,6 +1,4 @@
-streamlit
-pandas
-numpy
-plotly.express
-matplotlib.pyplot
-mysql.connector
+streamlit=1.14.0
+pandas=1.2.4
+numpy=1.20.1
+mysql.connector=8.0.31
